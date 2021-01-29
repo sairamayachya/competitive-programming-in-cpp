@@ -1,0 +1,19 @@
+Asked in Google Interview
+
+Given a set of elements s = [e1,e2,e3...en], and a number n. Write a program to find whether the addition of two elements in the given set would be equal to the n.
+
+Example: 
+
+S = [3,4,2,5] and n = 8
+                        3 + 5 = 8   Possible                   
+
+S = [3,4,2,4] and n = 9
+                        Not Possible
+
+Input : 3 4 2 4
+         6                                
+Output: Possible
+
+Input: 3 1 8 6
+          5
+Output: Not possible   
