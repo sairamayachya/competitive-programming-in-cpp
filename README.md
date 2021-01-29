@@ -1,1 +1,1 @@
-# competetive-programming-in-cpp
+# competetive programming questions
