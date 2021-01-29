@@ -1,1 +1,1 @@
-# competetive programming questions
+# competitive programming questions
